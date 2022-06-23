@@ -1,6 +1,6 @@
 # Intro to Shiny
 ###### 2022-06-27
-The repo was prepared for Intro to Shiny workshops for R User Group Tunisia.
+The repo was prepared for Intro to Shiny workshops for Tunis R User Group.
 
 ## Goal
 The goal of the workshops is to show the basics of Shiny. I will show you some concepts and elements of Shiny that were a game changers for me when I was starting building the Shiny apps. 
