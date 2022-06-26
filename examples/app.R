@@ -8,3 +8,4 @@ runApp("examples/app_03")
 
 runApp("examples/app_04")
 
+runApp("examples/app_05")
